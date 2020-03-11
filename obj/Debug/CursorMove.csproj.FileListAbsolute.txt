@@ -1,0 +1,10 @@
+C:\Projects\CursorMove\bin\Debug\CursorMove.exe.config
+C:\Projects\CursorMove\bin\Debug\CursorMove.exe
+C:\Projects\CursorMove\bin\Debug\CursorMove.pdb
+C:\Projects\CursorMove\obj\Debug\CursorMove.csprojAssemblyReference.cache
+C:\Projects\CursorMove\obj\Debug\CursorMove.Form1.resources
+C:\Projects\CursorMove\obj\Debug\CursorMove.Properties.Resources.resources
+C:\Projects\CursorMove\obj\Debug\CursorMove.csproj.GenerateResource.cache
+C:\Projects\CursorMove\obj\Debug\CursorMove.csproj.CoreCompileInputs.cache
+C:\Projects\CursorMove\obj\Debug\CursorMove.exe
+C:\Projects\CursorMove\obj\Debug\CursorMove.pdb
